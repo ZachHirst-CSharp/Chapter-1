@@ -1,0 +1,5 @@
+C:\Users\zh311478\Desktop\C#\Chapter-1\TableAndChair\TableAndChair\bin\Debug\TableAndChair.exe.config
+C:\Users\zh311478\Desktop\C#\Chapter-1\TableAndChair\TableAndChair\bin\Debug\TableAndChair.exe
+C:\Users\zh311478\Desktop\C#\Chapter-1\TableAndChair\TableAndChair\bin\Debug\TableAndChair.pdb
+C:\Users\zh311478\Desktop\C#\Chapter-1\TableAndChair\TableAndChair\obj\Debug\TableAndChair.exe
+C:\Users\zh311478\Desktop\C#\Chapter-1\TableAndChair\TableAndChair\obj\Debug\TableAndChair.pdb
